@@ -117,6 +117,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 ### SAPIEN-based
 * [ManiSkill3](https://github.com/haosulab/ManiSkill)
 * [SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups](https://github.com/simpler-env/SimplerEnv) Currently based on ManiSkill2
+* [ActionShift](https://github.com/Archerkattri/actionshift) Benchmark hiding the action-interface contract (permutation/sign/scale/delta-abs/frame/lag/gripper) from a frozen ManiSkill3 policy, with preregistered splits, a privileged oracle, and promotion gates.
 
 ### PyBullet-based
 * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym)
