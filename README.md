@@ -30,6 +30,7 @@ If you find this repo useful, please consider STARing this list and feel free to
   - [Related Awesome Lists](#related-awesome-lists)
   - [Laboratories](#laboratories)
   - [Active Researchers](#active-researchers)
+  - [Tactile / Visuo-Tactile Resources](#tactile--visuo-tactile-resources)
   - [Benchmarks](#benchmarks)
     - [Issac-based](#issac-based)
     - [MuJoCo-based](#mujoco-based)
@@ -87,6 +88,10 @@ If you find this repo useful, please consider STARing this list and feel free to
 | [Abhinav Valada](https://scholar.google.com/citations?hl=en&user=LcARjz0AAAAJ&view_op=list_works&sortby=pubdate) | University of Freiburg | [Dorsa Sadigh](https://iliad.stanford.edu/people/)           | Stanford                     |
 | [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego | [He Wang](https://scholar.google.com/citations?user=roCAWkoAAAAJ&hl=en)           | Peking University                     |
 | [Siyuan Huang](https://siyuanhuang.com/) | BIGAI | -           | -                     |
+
+---
+## Tactile / Visuo-Tactile Resources
+* [RoboSkin.ai Tactile Robotics Datasets](https://roboskin.ai/datasets) — Source-reviewed directory comparing tactile and visuo-tactile datasets by sensor, robot, task, modality, scale, access, license evidence, and primary source.
 
 ---
 ## Benchmarks
