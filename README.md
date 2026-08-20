@@ -143,7 +143,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home) For offline RL.
 * [RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot](https://rh20t.github.io/) Currently the largest single robotic dataset for manipulation. It contains over **110K robot episodes**, **110K corresponding human demonstrations**, over **50 million frames** and over **140 tasks**. 
-* [Physical AI Atlas](https://github.com/PlbKin190/physical-ai-atlas-data) — Curated bilingual (FR/EN) knowledge base of the physical AI ecosystem: 320 entities across humanoid robots, robotic platforms, VLA models, embedded AI chips, simulators and labs. Hand-verified with per-entity dates, CC BY 4.0. Browsable at [d-fairy.fr/atlas](https://www.d-fairy.fr/atlas/).
+* [Physical AI Atlas](https://github.com/PlbKin190/physical-ai-atlas-data) — Curated bilingual (FR/EN) knowledge base of the physical AI ecosystem: 13 datasets covering humanoid robots, robotic platforms, VLA models, embedded AI chips, simulators and labs. Hand-verified with per-entity dates, CC BY 4.0. Browsable at [d-fairy.fr/atlas](https://www.d-fairy.fr/atlas/).
 
 ## :books: License
 This repository is released under the [MIT license](LICENSE).
